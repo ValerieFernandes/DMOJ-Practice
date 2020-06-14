@@ -1,3 +1,4 @@
+#Solution for https://dmoj.ca/problem/sssp
 def main():
     line = input().split()
     vertices = int(line[0])
